@@ -1,0 +1,1 @@
+ {"email":{"S":"rajadhyaksha.mayura@gmail.com"},"name":{"S":"Mayura Rajadhyaksha"}}, {"email":{"S":"mayura@gmail.com"},"address":{"S":"mumbai"}}, {"email":{"S":"sample2@gmail.com"},"address":{"S":"mumbai"}}, {"email":{"S":"sample1@gmail.com"},"phone":{"N":"9999999999"}},
